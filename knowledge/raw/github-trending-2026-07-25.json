@@ -1,0 +1,72 @@
+[
+  {
+    "title": "ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github_trending",
+    "popularity": "GitHub Trending：项目页总 star 数 233,032（未获得本周 star 增量）",
+    "summary": "面向 Claude Code、Codex、OpenCode、Cursor 等工具的 Agent harness 性能优化系统，涵盖技能、记忆、安全与研究优先开发。"
+  },
+  {
+    "title": "hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github_trending",
+    "popularity": "GitHub Trending：项目页总 star 数 220,201（未获得本周 star 增量）",
+    "summary": "NousResearch 开源的 AI Agent 项目，仓库主题涵盖 LLM、Claude、Codex、OpenClaw 与 AI Agent。"
+  },
+  {
+    "title": "AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github_trending",
+    "popularity": "GitHub Trending：项目页总 star 数 185,679（未获得本周 star 增量）",
+    "summary": "提供用于构建和使用 AI 的工具，仓库主题包含自主 Agent、LLM、GPT、Claude 与 OpenAI。"
+  },
+  {
+    "title": "ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github_trending",
+    "popularity": "GitHub Trending：项目页总 star 数 176,832（未获得本周 star 增量）",
+    "summary": "用于运行 Kimi、GLM、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等模型的开源项目。"
+  },
+  {
+    "title": "prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "source": "github_trending",
+    "popularity": "GitHub Trending：项目页总 star 数 166,337（未获得本周 star 增量）",
+    "summary": "原 Awesome ChatGPT Prompts，提供社区提示词的分享、发现和收藏功能，并支持组织自托管。"
+  },
+  {
+    "title": "transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "source": "github_trending",
+    "popularity": "GitHub Trending：项目页总 star 数 162,963（未获得本周 star 增量）",
+    "summary": "Hugging Face 的模型定义框架，支持文本、视觉、音频和多模态模型的训练与推理。"
+  },
+  {
+    "title": "firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github_trending",
+    "popularity": "GitHub Trending：项目页总 star 数 155,736（未获得本周 star 增量）",
+    "summary": "提供大规模网页搜索、抓取和交互能力的 API，仓库主题包括 LLM、AI Agent、AI 搜索与网页数据提取。"
+  },
+  {
+    "title": "dify",
+    "url": "https://github.com/langgenius/dify",
+    "source": "github_trending",
+    "popularity": "GitHub Trending：项目页总 star 数 150,180（未获得本周 star 增量）",
+    "summary": "用于构建 Agent 工作流和 RAG 管线的协作式平台，支持多种 AI 模型与工具，并可部署到云端、VPC 或自托管环境。"
+  },
+  {
+    "title": "langchain",
+    "url": "https://github.com/langchain-ai/langchain",
+    "source": "github_trending",
+    "popularity": "GitHub Trending：项目页总 star 数 142,565（未获得本周 star 增量）",
+    "summary": "LangChain 的 Agent 工程平台，仓库主题包含 AI Agent、LLM、多 Agent、RAG 和 LangGraph。"
+  },
+  {
+    "title": "TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "source": "github_trending",
+    "popularity": "GitHub Trending：项目页总 star 数 94,465（未获得本周 star 增量）",
+    "summary": "面向金融交易场景的多 Agent LLM 框架。"
+  }
+]
