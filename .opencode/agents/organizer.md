@@ -40,7 +40,7 @@ permission:
   "summary": "中文摘要",
   "tags": ["AI", "LLM"],
   "status": "draft",
-  "published_at": "2026-07-25T00:00:00Z"
+  "published_at": null
 }
 ```
 
